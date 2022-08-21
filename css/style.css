@@ -1,0 +1,8 @@
+#header{
+    position: fixed;
+    top: 0px;
+    min-height: 75px;
+    display: flex;
+    align-items: center;
+    
+}
